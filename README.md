@@ -57,6 +57,10 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente um Microcont
 
 ![Expansao](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/1cedfb5a-f993-48ee-ae46-578f30647a39)
 
++ Braço Robótico em Acrílico
+
+![Braco](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/e2f94ec3-2537-4035-b3c3-410825baaa90)
+
 
 Segue video do projeto:
 
