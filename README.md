@@ -1,6 +1,6 @@
 ----
 
-# Braco-Robotico
+# Braço Robótico
 
 
 SISTEMAS EMBARCADOS
