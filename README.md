@@ -62,6 +62,17 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente um Microcont
 ![Braco](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/e2f94ec3-2537-4035-b3c3-410825baaa90)
 
 
++ Micro Servo Motor
+
+  ![Servo](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/0b00882a-036b-47f5-8c51-687d838b780c)
+
+
++ Módulo Joystick
+
+  ![Joystick](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/7a0cf3cb-a50a-4358-a87b-44515d2c282f)
+  
+
+
 Segue video do projeto:
 
 https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/9328e398-135d-4ba4-9b28-5d00fb690a73
