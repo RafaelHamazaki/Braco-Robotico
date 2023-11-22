@@ -53,6 +53,11 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente um Microcont
 
   ![Arduino](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/3bb7b7a5-014b-4812-89ea-e05c1ad8e5fa)
 
++ Placa de Expansão
+
+![Expansao](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/1cedfb5a-f993-48ee-ae46-578f30647a39)
+
+
 Segue video do projeto:
 
   ![Videos](Videos/video.mp4)
