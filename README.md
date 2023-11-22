@@ -9,7 +9,10 @@ SISTEMAS EMBARCADOS
 
 Integrantes:
 
+
 -Misael Fernandes Soares;
+
+
 -Rafael Massayoshi Hamazaki;
 
 
@@ -48,4 +51,9 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente um Microcont
 
 + ATMEGA 328P (Arduino Uno)
 
+  ![Arduino](https://github.com/RafaelHamazaki/Braco-Robotico/assets/106597490/3bb7b7a5-014b-4812-89ea-e05c1ad8e5fa)
+
+Segue video do projeto:
+
+  ![Videos](Videos/video.mp4)
   
