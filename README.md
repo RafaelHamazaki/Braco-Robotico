@@ -28,7 +28,7 @@ Integrantes:
 
 4 - Conclusão do Projeto;
 
-5 - Link do vídeo;
+
 
 
 ----
@@ -133,3 +133,10 @@ void loop()
 
 
 ----
+
+
+# Conclusão do Projeto
+
+Finalizadas as execuções das etapas presentes em cada tópico do documento do sistema, nota-se que o protótipo alcançado assemelha-se bastante ao ambiente de uma linha de produção industrial. Quase todos os possíveis problemas encontrados foram adequadamente encaminhados e tratados, dentre eles a montagem mecânica e a programação e a validação dos resultados, conforme configura o planejamento dos requisitos do projeto.
+Todo o processo de planejamento e execução do projeto, respeitando e validando todo o fluxo do processo determinado, é possível avaliar em conjunto que o que temos como resultado se aproxima muito do que foi proposto no kick-off do projeto, existem sim algumas variáveis que por alguma razão não entendemos ser importante controlar no início (como os elementos de fixação dos sensores) e que de certa forma provocou alguns impactos em nosso tempo de realização assim como no resultado, mas com as ferramentas utilizadas, o apoio dos professores e a boa relação dos integrantes foi possível realizar a entrega, com qualidade.
+Com foco especifico na execução do projeto, é possível analisar que do planejamento a execução é de extrema importância, o domínio sobre os ajustes mecânicos e toda a sua montagem, a complexidade de integrar os elementos em um escopo que permita extrair o máximo de qualidade e funcionamento de todos os elementos envolvidos nos faz pensar que o uso de uma ferramenta de CAD, com desenho assistido por computador seja um conhecimento que mitiga os riscos de execução no rascunho do projeto de desenho analisando com foco na realização, a funcionalidade do projeto do braço robótico integra de maneira satisfatória com o sistemas de movimentação do braço robótico, e que para nós elementos do grupo foi uma grande experiência poder realizar esse trabalho, em todos os aspectos, programação, processo de compras, montagem e as discussões do grupo, amadurecendo nosso relacionamento interpessoal e nossa comunicação profissional.
