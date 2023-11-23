@@ -135,7 +135,7 @@ void loop()
 ----
 
 
-# Conclusão do Projeto
+# 4 - Conclusão do Projeto
 
 Finalizadas as execuções das etapas presentes em cada tópico do documento do sistema, nota-se que o protótipo alcançado assemelha-se bastante ao ambiente de uma linha de produção industrial. Quase todos os possíveis problemas encontrados foram adequadamente encaminhados e tratados, dentre eles a montagem mecânica e a programação e a validação dos resultados, conforme configura o planejamento dos requisitos do projeto.
 
